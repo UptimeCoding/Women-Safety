@@ -5,9 +5,9 @@
 Women Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
-Demo Download App : [Click Here](https://diplomagraduate.blogspot.com/2021/08/women-safety-applicatino-in-android.html)
+Demo Download App : [Click Here]([https://diplomagraduate.blogspot.com/2021/08/women-safety-applicatino-in-android.html](https://uptimecoding.blogspot.com/2022/12/Women-Safety-Application-in-Android-Studio%20.html))
 
-[<img src="media/womenSafety.png" />](https://t.me/vinayak_09)
+[<img src="media/womenSafety.png" />]
 
 
 
@@ -38,8 +38,8 @@ Hit Run Button !
 
 ------------
 
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/E0WLnlkPDJY
+Full Project demonstration  :<br>
+Link - [https://youtu.be/E0WLnlkPDJY](https://uptimecoding.blogspot.com/2022/12/Women-Safety-Application-in-Android-Studio%20.html)
 
 **Free Software, Hell Yeah!**
 
